@@ -1,6 +1,6 @@
 # helparyum
 
-Powershell script that generates a simple HTML help file from instructions written in a simple CSV file.
+Powershell script which generates a simple HTML help file from instructions written in a simple CSV file.
 
 
 
@@ -42,6 +42,7 @@ ZIP filename convention is the same as HTML. ZIP contains main HTML file and all
 ## Command line parameters
 
 -Title ..... Title of a resulting help file; also a filename for resulting HTML and ZIP files; defaut = "Helparyum"
+
 -CSVfile ... File with instructions to read; default = "helparyum.csv"
 
 
