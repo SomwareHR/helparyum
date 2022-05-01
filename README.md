@@ -22,7 +22,7 @@ See example.
 
 ## Input
 
-CSV file ![helparyum.csv](helparyum-input.png)
+![helparyum.csv](helparyum-input.png "CSV file")
 
 Format: two fields HELPTEXT and HELPMEDIA. HELPTEXT contains instructions for end user. HELPMEDIA is an (optional) media file (image, video, PDF, ...) that could be opened to better explain instruction. If there is no media, state so with "NO-MEDIA" keyword. Media links that lead to external links stay as they are.
 
@@ -30,8 +30,8 @@ Format: two fields HELPTEXT and HELPMEDIA. HELPTEXT contains instructions for en
 
 ## Output
 
-+ HTML file ![helparyum.html](helparyum-output.png "helparyum.html")
-+ ZIP file  ![helparyum.zip](helparyum-zip.png "helparyum.zip")
++ ![helparyum.html](helparyum-output.png "HTML file")
++ ![helparyum.zip](helparyum-zip.png "ZIP file")
 
 HTML file is named either "helparyum.html" (default) or $Title.html (replaces " " with "_") if you specify it as CLI parameter. This is intended for upload to web server.
 
