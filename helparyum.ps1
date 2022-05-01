@@ -62,9 +62,8 @@ $HTMLheader1 = @"
   <meta charset="utf-8">
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-  <meta name="description" content="Description of the page less than 150 characters">
-  <title>Naslov</title>
-  <link rel="icon" type="image/png" href="https://example.com/favicon.png">
+  <meta name="description" content="$Title">
+  <title>$Title</title>
 
   <link rel="stylesheet" href="$HTMLbootstrapCSSFlavor1">
 
