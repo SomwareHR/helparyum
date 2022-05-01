@@ -22,7 +22,7 @@ See example.
 
 ## Input
 
-CSV file ![helparyum.csv](helparyum-input.png "helparyum.csv")
+CSV file ![helparyum.csv](helparyum-input.png)
 
 Format: two fields HELPTEXT and HELPMEDIA. HELPTEXT contains instructions for end user. HELPMEDIA is an (optional) media file (image, video, PDF, ...) that could be opened to better explain instruction. If there is no media, state so with "NO-MEDIA" keyword. Media links that lead to external links stay as they are.
 
